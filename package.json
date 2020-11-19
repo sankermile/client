@@ -1,0 +1,32 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "sanker mile discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sankermile/client.git"
+  },
+  "keywords": [
+    "sanker",
+    "mile",
+    "music",
+    "bot"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sankermile/client/issues"
+  },
+  "homepage": "https://github.com/sankermile/client#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "ffmpeg-static": "^4.2.7",
+    "opusscript": "0.0.7",
+    "yt-search": "^2.5.0",
+    "ytdl-core": "^4.0.5"
+  }
+}
