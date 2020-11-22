@@ -61,4 +61,4 @@ const play = async () => {
   client.queue[0].dispatcher.setVolumeLogarithmic(5 / 5);
 }
 
-client.login(process.env.TOKEN);
+client.login(process.env.BOT_TOKEN);
